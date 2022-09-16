@@ -26,7 +26,7 @@ I used Python3 and the following libraries:
 
 
 ## File description and additonal files
-1. DataScience_BlogReport.ipynb
+1. BlogReport.ipynb
 
 Jupyter notebook with analysis convering the outline mentioned above
 
