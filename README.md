@@ -23,7 +23,6 @@ I used Python3 and the following libraries:
 5. matplotlib.pyplot
 6. Collections
 7. Math
-8. # Write-a-Data-Science-Blog-Post
 
 
 ## Additonal Files
