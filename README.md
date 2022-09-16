@@ -27,7 +27,9 @@ I used Python3 and the following libraries:
 
 ## File description and additonal files
 1. DataScience_BlogReport.ipynb
-Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations
+
+Jupyter notebook with analysis convering the outline mentioned above
 
 2. listings.csv
-Original dataset in csv format. The file provides Seattle Airbnb Dataset for this project. The orginal description as well the raw data can be found here: https://www.kaggle.com/airbnb/seattle
+Original dataset in csv format. 
+The file provides Seattle Airbnb Dataset for this project. The orginal description as well the raw data can be found here: https://www.kaggle.com/airbnb/seattle
