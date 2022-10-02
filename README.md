@@ -4,6 +4,9 @@
 The results can be found in a blog post here :
 
 ## Project Motivation
+The motivation for this project was to get a deeper understanding
+housing markets especially in these times and to get 
+an easy start with a given project and the given data by kaggle.
 
 ## General Outline
 Here is an overview of the main steps in this project, following the CRISP-DM process:  
@@ -26,10 +29,8 @@ I used Python3 and the following libraries:
 
 
 ## File description and additional files
-1. BlogReport.ipynb
+1. _BlogReport.ipynb_ 
+    **Jupyter** notebook with analysis covering the outline mentioned above
 
-Jupyter notebook with analysis covering the outline mentioned above
-
-2. listings.csv
-Original dataset in csv format. 
+2. _listings.csv_ **Original** dataset in csv format. 
 The file provides Seattle Airbnb Dataset for this project. The original description as well the raw data can be found here: https://www.kaggle.com/airbnb/seattle
