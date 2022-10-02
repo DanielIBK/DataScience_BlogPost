@@ -1,7 +1,7 @@
 # DataScience_BlogPost
 
 ## Medium Blog Post
-The results can be found in an blog post here :
+The results can be found in a blog post here :
 
 ## Project Motivation
 
@@ -25,11 +25,11 @@ I used Python3 and the following libraries:
 7. Math
 
 
-## File description and additonal files
+## File description and additional files
 1. BlogReport.ipynb
 
-Jupyter notebook with analysis convering the outline mentioned above
+Jupyter notebook with analysis covering the outline mentioned above
 
 2. listings.csv
 Original dataset in csv format. 
-The file provides Seattle Airbnb Dataset for this project. The orginal description as well the raw data can be found here: https://www.kaggle.com/airbnb/seattle
+The file provides Seattle Airbnb Dataset for this project. The original description as well the raw data can be found here: https://www.kaggle.com/airbnb/seattle
