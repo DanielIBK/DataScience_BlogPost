@@ -1,7 +1,7 @@
 # DataScience_BlogPost
 
 ## Medium Blog Post
-The results can be found in a blog post here : https://medium.com/@heuserdaniel.dh/the-amenities-your-airbnb-should-have-to-compete-with-the-market-8ea1b3ff2fef
+The results can be found in a blog post here : https://medium.com/@danielIBK/the-amenities-your-airbnb-should-have-to-compete-with-the-market-8ea1b3ff2fef
 
 ## Project Motivation
 The motivation for this project was to get a deeper understanding
