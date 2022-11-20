@@ -16,6 +16,9 @@ Here is an overview of the main steps in this project, following the CRISP-DM pr
   4. Evaluate your results. 
   5. Share your insights with stakeholders in a blog post.
 
+### Main question
+What is a efficient strategy to list a accommodation on AirBnB?
+
 ## Used Libraries
 
 I used Python3 and the following libraries:
@@ -34,3 +37,8 @@ I used Python3 and the following libraries:
 
 2. _listings.csv_ **Original** dataset in csv format. 
 The file provides Seattle Airbnb Dataset for this project. The original description as well the raw data can be found here: https://www.kaggle.com/airbnb/seattle
+
+## Findings
+Answering the main question following can be said:
+You should focus on the essentials and adding fancy extras does not seem to be the most effective strategy for a listing on Airbnb. Provide Wi-Fi/internet, as in most cases people are visiting and need to know about the area. Provide heating and a kitchen, as people will want to live there and be comfortable. And provide basic security with smoke detectors, as this helps both the visitors and the provider to keep things running and alive.
+
