@@ -30,8 +30,6 @@ I used Python3 and the following libraries:
 6. Collections
 7. Math
 
-
-
 ## File description and additional files
 1. _BlogReport.ipynb_ 
     **Jupyter** notebook with analysis covering the outline mentioned above
@@ -42,4 +40,8 @@ The file provides Seattle Airbnb Dataset for this project. The original descript
 ## Findings
 Answering the main question following can be said:
 You should focus on the essentials and adding fancy extras does not seem to be the most effective strategy for a listing on Airbnb. Provide Wi-Fi/internet, as in most cases people are visiting and need to know about the area. Provide heating and a kitchen, as people will want to live there and be comfortable. And provide basic security with smoke detectors, as this helps both the visitors and the provider to keep things running and alive.
+
+# Acknowledgements
++ Data Source: Kaggle/Airbnb
++ Idea: Udacity
 
