@@ -31,6 +31,7 @@ I used Python3 and the following libraries:
 7. Math
 
 
+
 ## File description and additional files
 1. _BlogReport.ipynb_ 
     **Jupyter** notebook with analysis covering the outline mentioned above
